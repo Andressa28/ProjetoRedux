@@ -7,7 +7,8 @@ export default props => {
         <Card title="Soma dos números" blue>
             <div>
                 <span> Resultado:</span>
-                <span> {(min + max)} </span>
+                {/* <span> {(min + max)} </span> */}
+                <span> {20} </span>
             </div>
         </Card>
     )

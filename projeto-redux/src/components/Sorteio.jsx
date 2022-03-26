@@ -8,7 +8,8 @@ export default props => {
         <Card title="Sorteio dos números" purple>
             <div>
                 <span> Resultado:</span>
-                <span> {aleatorio} </span>
+                {/* <span> {aleatorio} </span> */}
+                <span> {15} </span>
             </div>
         </Card>
     )
