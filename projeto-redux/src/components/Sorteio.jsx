@@ -1,6 +1,8 @@
 import React from "react";
 import Card from "./Card";
 
+import { connect } from "react-redux"
+
 function Sorteio(props) {  
     // export default props => {
     const {min, max} = props
